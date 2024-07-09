@@ -1,0 +1,53 @@
+[
+  {
+    "icon": "Blog",
+    "name": "知识库",
+    "link": "https://softleadergy.top/"
+  },
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://softleadergy.github.io/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "alist",
+    "link": "https://softleadergy.top/alist/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "小雅",
+    "link": "http://47.93.62.86:5678/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "FreeAPI",
+    "link": "https://res.abeim.cn/api"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.imsyy.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://web.imsyy.top/"
+  }
+
+]
