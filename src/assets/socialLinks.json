@@ -21,6 +21,18 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "18525109572@163.com"
+    "url": "mailto:826044698@qq.com"
+  },
+  {
+    "name": "Weibo",
+    "icon": "/images/icon/weibo.png",
+    "tip": "微博求关注～",
+    "url": "https://weibo.com/u/6246999307"
+  },
+  {
+    "name": "douyin",
+    "icon": "/images/icon/douyin.png",
+    "tip": "抖音求关注～",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAgQfGanuJkeQ9e9xNQo7HfYMyVN5vunIygrOwW3jEuyg"
   }
 ]
