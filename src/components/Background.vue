@@ -38,7 +38,6 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 
 // 更换壁纸链接
 const changeBg = (type) => {
-  debugger
   if (type == 0) {
     bgUrl.value = `/images/def/background${bgRandom}.jpg`;
   } else if (type == 1) {
