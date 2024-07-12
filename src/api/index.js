@@ -50,6 +50,14 @@ export const getHitokoto = async () => {
 };
 
 /**
+ * 一言备用接口
+ * @returns {Promise<any>}
+ */
+export const getHitokotoBak = async () => {
+  const res = await fetch("https://res.abeim.cn/api-text_yiyan?export=json");
+  return await res.json();
+};
+/**
  * 天气
  */
 

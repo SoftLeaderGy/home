@@ -29,7 +29,7 @@
 
 <script setup>
 import { MusicMenu, Error } from "@icon-park/vue-next";
-import { getHitokoto } from "@/api";
+import { getHitokoto, getHitokotoBak } from "@/api";
 import { mainStore } from "@/store";
 import debounce from "@/utils/debounce.js";
 
@@ -51,15 +51,23 @@ const getHitokotoData = async () => {
     hitokotoData.text = result.hitokoto;
     hitokotoData.from = result.from;
   } catch (error) {
-    ElMessage({
-      message: "一言获取失败",
-      icon: h(Error, {
-        theme: "filled",
-        fill: "#efefef",
-      }),
-    });
-    hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "無名";
+      // 一言报错使用备用接口
+      try {
+        const resbak = await getHitokotoBak();
+        hitokotoData.text = resbak.content;
+        hitokotoData.from = resbak.author;
+      } catch (error) {
+        ElMessage({
+          message: "一言备用获取失败",
+          icon: h(Error, {
+            theme: "filled",
+            fill: "#efefef",
+          }),
+        });
+        hitokotoData.text = "这里应该显示一句话";
+        hitokotoData.from = "無名";
+      }
+
   }
 };
 
