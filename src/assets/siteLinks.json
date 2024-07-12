@@ -1,8 +1,8 @@
 [
   {
-    "icon": "Blog",
+    "icon": "Book",
     "name": "知识库",
-    "link": "https://softleadergy.top/"
+    "link": "https://47.93.62.86/knowledge-base/"
   },
   {
     "icon": "Blog",
@@ -12,10 +12,10 @@
   {
     "icon": "Cloud",
     "name": "alist",
-    "link": "https://softleadergy.top/alist/"
+    "link": "https://47.93.62.86/alist/"
   },
   {
-    "icon": "Cloud",
+    "icon": "Film",
     "name": "小雅",
     "link": "http://47.93.62.86:5678/"
   },
@@ -25,14 +25,19 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "Fire",
+    "icon": "Searchengin",
+    "name": "秒搜",
+    "link": "https://miaosou.fun/"
+  },
+  {
+    "icon": "Link",
     "name": "FreeAPI",
     "link": "https://res.abeim.cn/api"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Gamepad",
+    "name": "小霸王",
+    "link": "https://www.yikm.net/"
   },
   {
     "icon": "CompactDisc",
@@ -40,14 +45,13 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "ShareAlt",
+    "name": "A姐分享",
+    "link": "https://www.ahhhhfs.com/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "YandexInternational",
+    "name": "Yandex",
+    "link": "https://yandex.com/"
   }
-
 ]
