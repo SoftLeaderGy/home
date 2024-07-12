@@ -1,21 +1,12 @@
-简体中文 | [English](./README_EN.md)
-
 <p>
-<strong><h2>無名の主页</h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
+<strong><h2>SoftLeaderGy</h2></strong>
 </p>
 
-![無名の主页](/screenshots/main.jpg)
+![SoftLeaderGyの主页](screenshots/main.jpg)
+
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
-### Demo
-
->由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
-
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - Dev](https://home-imsyy.vercel.app)
-- [無名の主页 - 备用线路](https://home-5iw.pages.dev)
 
 ### 功能
 
@@ -34,11 +25,11 @@
 
 - 在成功 `fork` 仓库后，前往 `Actions` 页面，若您是首次开启，则会出现下面的提示，点击开启
   
-  ![步骤1](/screenshots/step1.jpg)
+  ![步骤1](screenshots/step1.jpg)
 
 - 然后在仓库中进行任意修改后均会触发工作流的运行，在工作流完成后，会在下方生成一个可供下载的压缩包，这就是构建出的静态文件，可自行上传至服务器
   
-  ![步骤2](/screenshots/step2.jpg)
+  ![步骤2](screenshots/step2.jpg)
 
 ### 手动部署
 
@@ -84,7 +75,7 @@ docker run -p 12445:12445 -d home
 {
   "icon": "Blog",						
   "name": "博客",						
-  "link": "https://blog.imsyy.top/"	
+  "link": "https://softleadergy.github.io/"	
 },
 ```
 
@@ -231,8 +222,5 @@ if (type == 0) {
 * [高德开放平台](https://lbs.amap.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imsyy/home&type=Date)](https://star-history.com/#imsyy/home&Date)
-
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+<a title="Copyright" target="_blank" href="https://softleadergy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202024--2024-洋洋洋-red"></a>
