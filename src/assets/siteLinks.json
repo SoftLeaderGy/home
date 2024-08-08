@@ -35,9 +35,9 @@
     "link": "https://res.abeim.cn/api"
   },
   {
-    "icon": "Gamepad",
-    "name": "小霸王",
-    "link": "https://www.yikm.net/"
+    "icon": "Slideshare",
+    "name": "文件互传",
+    "link": "https://www.sharedrop.io/"
   },
   {
     "icon": "CompactDisc",
@@ -53,5 +53,10 @@
     "icon": "YandexInternational",
     "name": "Yandex",
     "link": "https://yandex.com/"
+  },
+  {
+  "icon": "Gamepad",
+  "name": "小霸王",
+  "link": "https://www.yikm.net/"
   }
 ]
