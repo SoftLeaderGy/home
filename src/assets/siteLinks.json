@@ -20,14 +20,19 @@
     "link": "https://gy-cook.pages.dev/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "http://hot.softleadergy.top/"
+    "icon": "Mixcloud",
+    "name": "Uptime-Kuma",
+    "link": "http://hot.softleadergy.top:3001/dashboard"
   },
   {
     "icon": "Fire",
     "name": "热点新闻",
     "link": "https://gy-newsnow.pages.dev/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "http://hot.softleadergy.top/"
   },
   {
     "icon": "Film",
@@ -50,8 +55,13 @@
     "link": "https://www.sharedrop.io/"
   },
   {
+    "icon": "Slideshare",
+    "name": "屏幕共享",
+    "link": "https://echoshare.site/"
+  },
+  {
     "icon": "Film",
-    "name": "Libretv影视",
+    "name": "Libretv",
     "link": "https://libretv-f1k.pages.dev/"
   },
   {
