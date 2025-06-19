@@ -40,6 +40,11 @@
     "link": "http://47.93.62.86:5678/"
   },
   {
+    "icon": "DrawPolygon",
+    "name": "画布",
+    "link": "https://excalidraw.com/"
+  },
+  {
     "icon": "Searchengin",
     "name": "秒搜",
     "link": "https://miaosou.fun/"
