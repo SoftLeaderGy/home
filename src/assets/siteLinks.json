@@ -21,7 +21,7 @@
   },
   {
     "icon": "Mixcloud",
-    "name": "Uptime-Kuma",
+    "name": "服务监控",
     "link": "http://hot.softleadergy.top:3001/dashboard"
   },
   {
@@ -30,9 +30,19 @@
     "link": "https://gy-newsnow.pages.dev/"
   },
   {
+    "icon": "DrawPolygon",
+    "name": "画布",
+    "link": "https://excalidraw.com/"
+  },
+  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "http://hot.softleadergy.top/"
+  },
+  {
+    "icon": "Film",
+    "name": "Libretv",
+    "link": "https://libretv-f1k.pages.dev/"
   },
   {
     "icon": "Film",
@@ -40,24 +50,9 @@
     "link": "http://47.93.62.86:5678/"
   },
   {
-    "icon": "DrawPolygon",
-    "name": "画布",
-    "link": "https://excalidraw.com/"
-  },
-  {
     "icon": "Searchengin",
     "name": "秒搜",
     "link": "https://miaosou.fun/"
-  },
-  {
-    "icon": "Link",
-    "name": "FreeAPI",
-    "link": "https://res.abeim.cn/api"
-  },
-  {
-    "icon": "Slideshare",
-    "name": "文件互传",
-    "link": "https://www.sharedrop.io/"
   },
   {
     "icon": "Slideshare",
@@ -65,9 +60,14 @@
     "link": "https://echoshare.site/"
   },
   {
-    "icon": "Film",
-    "name": "Libretv",
-    "link": "https://libretv-f1k.pages.dev/"
+    "icon": "Slideshare",
+    "name": "文件互传",
+    "link": "https://www.sharedrop.io/"
+  },
+  {
+    "icon": "Link",
+    "name": "FreeAPI",
+    "link": "https://res.abeim.cn/api"
   },
   {
     "icon": "CompactDisc",
