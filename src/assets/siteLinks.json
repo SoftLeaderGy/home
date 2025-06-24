@@ -29,6 +29,13 @@
     "name": "热点新闻",
     "link": "https://gy-newsnow.pages.dev/"
   },
+
+
+  {
+    "icon": "BrandNetflix",
+    "name": "奈飞工厂",
+    "link": "https://www.netflixgc.com/"
+  },
   {
     "icon": "DrawPolygon",
     "name": "画布",
