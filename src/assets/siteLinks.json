@@ -32,6 +32,11 @@
 
 
   {
+    "icon": "Film",
+    "name": "Libretv",
+    "link": "https://libretv-f1k.pages.dev/"
+  },
+  {
     "icon": "BrandNetflix",
     "name": "奈飞工厂",
     "link": "https://www.netflixgc.com/"
@@ -48,19 +53,21 @@
   },
   {
     "icon": "Film",
-    "name": "Libretv",
-    "link": "https://libretv-f1k.pages.dev/"
-  },
-  {
-    "icon": "Film",
     "name": "小雅",
     "link": "http://47.93.62.86:5678/"
+  },
+  {
+    "icon": "ServerProxy",
+    "name": "Proxy",
+    "link": "https://gy-siteproxy.pages.dev/gyang/"
   },
   {
     "icon": "Searchengin",
     "name": "秒搜",
     "link": "https://miaosou.fun/"
   },
+
+
   {
     "icon": "Slideshare",
     "name": "屏幕共享",
