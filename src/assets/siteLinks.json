@@ -10,9 +10,36 @@
     "link": "https://softleadergy.github.io/"
   },
   {
+    "icon": "Fire",
+    "name": "热点新闻",
+    "link": "https://gy-newsnow.pages.dev/"
+  },
+  {
+    "icon": "Report",
+    "name": "技术周刊",
+    "link": "https://gy-siteproxy.pages.dev/gyang/https/github.com/ruanyf/weekly?tab=readme-ov-file/"
+  },
+  {
+    "icon": "Report",
+    "name": "老胡周刊",
+    "link": "https://weekly.howie6879.com/recommend/index.html/"
+  },
+  {
+    "icon": "Film",
+    "name": "Libretv",
+    "link": "https://gy-libretv.pages.dev/"
+  },
+
+
+  {
     "icon": "Cloud",
     "name": "alist",
     "link": "http://softleadergy.top/alist/"
+  },
+  {
+    "icon": "BrandNetflix",
+    "name": "奈飞工厂",
+    "link": "https://www.netflixgc.com/"
   },
   {
     "icon": "CookieBite",
@@ -25,32 +52,17 @@
     "link": "http://hot.softleadergy.top:3001/dashboard"
   },
   {
-    "icon": "Fire",
-    "name": "热点新闻",
-    "link": "https://gy-newsnow.pages.dev/"
-  },
-
-
-  {
-    "icon": "Film",
-    "name": "Libretv",
-    "link": "https://gy-libretv.pages.dev/"
-  },
-  {
-    "icon": "BrandNetflix",
-    "name": "奈飞工厂",
-    "link": "https://www.netflixgc.com/"
-  },
-  {
     "icon": "DrawPolygon",
     "name": "画布",
     "link": "https://excalidraw.com/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "http://hot.softleadergy.top/"
+    "icon": "ShareAlt",
+    "name": "A姐分享",
+    "link": "https://www.ahhhhfs.com/"
   },
+
+
   {
     "icon": "Film",
     "name": "小雅",
@@ -62,19 +74,15 @@
     "link": "https://gy-siteproxy.pages.dev/gyang/"
   },
   {
-    "icon": "Report",
-    "name": "技术周刊",
-    "link": "https://gy-siteproxy.pages.dev/gyang/https/github.com/ruanyf/weekly?tab=readme-ov-file/"
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "http://hot.softleadergy.top/"
   },
-
-
   {
     "icon": "Searchengin",
     "name": "秒搜",
     "link": "https://miaosou.fun/"
   },
-
-
   {
     "icon": "Slideshare",
     "name": "屏幕共享",
@@ -85,15 +93,11 @@
     "name": "文件互传",
     "link": "https://www.sharedrop.io/"
   },
+
   {
     "icon": "Link",
     "name": "FreeAPI",
     "link": "https://res.abeim.cn/api"
-  },
-  {
-    "icon": "ShareAlt",
-    "name": "A姐分享",
-    "link": "https://www.ahhhhfs.com/"
   },
   {
     "icon": "YandexInternational",
