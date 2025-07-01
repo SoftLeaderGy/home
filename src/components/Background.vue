@@ -46,7 +46,7 @@ const changeBg = (type) => {
     // bgUrl.value = "https://api.aixiaowai.cn/gqapi/gqapi.php";
     bgUrl.value = `/images/scenery/background${bgRandom}.jpeg`;
   } else if (type == 3) {
-    bgUrl.value = "https://api.aixiaowai.cn/api/api.php";
+    bgUrl.value = "https://bz.w3h5.com/img/rand";
   }
 };
 
