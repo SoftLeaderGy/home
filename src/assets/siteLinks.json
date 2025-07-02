@@ -69,6 +69,11 @@
 
 
   {
+    "icon": "ShareAlt",
+    "name": "A姐分享",
+    "link": "https://www.ahhhhfs.com/"
+  },
+  {
     "icon": "Report",
     "name": "科技新闻",
     "link": "https://zeli.app/zh"
