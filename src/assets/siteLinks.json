@@ -42,9 +42,9 @@
     "link": "http://mc.alger.fun/#/"
   },
   {
-    "icon": "BrandNetflix",
-    "name": "奈飞工厂",
-    "link": "https://www.netflixgc.com/"
+    "icon": "ShareAlt",
+    "name": "A姐分享",
+    "link": "https://www.ahhhhfs.com/"
   },
   {
     "icon": "CookieBite",
@@ -61,17 +61,12 @@
     "name": "画布",
     "link": "https://excalidraw.com/"
   },
-  {
-    "icon": "Report",
-    "name": "老胡周刊",
-    "link": "https://weekly.howie6879.com/recommend/index.html"
-  },
 
 
   {
-    "icon": "ShareAlt",
-    "name": "A姐分享",
-    "link": "https://www.ahhhhfs.com/"
+    "icon": "BrandNetflix",
+    "name": "奈飞工厂",
+    "link": "https://www.netflixgc.com/"
   },
   {
     "icon": "Report",
