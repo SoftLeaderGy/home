@@ -45,6 +45,7 @@ import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode,Weibo,YandexInternational,ExternalLinkAlt,Film,Searchengin,Gamepad,ShareAlt,Slideshare,CookieBite,Mixcloud,DrawPolygon,Music,Github } from "@vicons/fa"; // 注意使用正确的类别
 import { BrandNetflix} from "@vicons/tabler";
+import { LiveTvOutlined} from "@vicons/material";
 import { ServerProxy,Report} from "@vicons/carbon";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -86,7 +87,7 @@ const siteIcon = {
   BrandNetflix,
   ServerProxy,
   Report,
-  Music,Github
+  Music,Github,LiveTvOutlined
 };
 
 // 链接跳转

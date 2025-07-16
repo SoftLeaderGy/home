@@ -25,6 +25,12 @@
     "link": "https://softleadergy.top/openlist/"
   },
   {
+    "icon": "LiveTvOutlined",
+    "name": "Live监控",
+    "link": "http://hot.softleadergy.top:8080/"
+  },
+
+  {
     "icon": "Film",
     "name": "Libretv",
     "link": "https://gy-libretv.pages.dev/"
