@@ -25,18 +25,22 @@
     "link": "https://softleadergy.top/openlist/"
   },
   {
-    "icon": "LiveTvOutlined",
-    "name": "Live监控",
-    "link": "http://softleadergy.top:8080/"
-  },
-
-  {
     "icon": "Film",
     "name": "Libretv",
     "link": "https://gy-libretv.pages.dev/"
   },
+  {
+    "icon": "Film",
+    "name": "短剧搜索",
+    "link": "https://ss.apps.dj/"
+  },
 
 
+  {
+    "icon": "LiveTvOutlined",
+    "name": "Live监控",
+    "link": "http://softleadergy.top:8080/"
+  },
   {
     "icon": "Github",
     "name": "GitStars",
