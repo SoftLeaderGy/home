@@ -1,25 +1,29 @@
-<template>
+<template xmlns="http://www.w3.org/1999/html">
   <!-- 基本信息 -->
   <div class="message">
     <!-- Logo -->
     <div class="logo">
       <a href="https://gy-resume.pages.dev/" target="_blank"><img class="logo-img" :src="siteLogo" alt="logo" /></a>
       <div :class="{ name: true, 'text-hidden': true, long: siteUrl[0].length >= 6 }">
-        <span class="bg">{{ siteUrl[0] }}</span>
-        <span class="sm">.{{ siteUrl[1] }}</span>
+        <span class="bg">{{viteSiteWord}}</span>
+        <span class="sm">.</span>
       </div>
     </div>
     <!-- 简介 -->
     <div class="description cards" @click="changeBox">
       <div class="content">
-        <Icon size="16">
+        <Icon size="12">
           <QuoteLeft />
         </Icon>
         <div class="text">
-          <p>{{ descriptionText.hello }}</p>
+          <p>
+            {{ descriptionText.hello }}
+            <br>
+            {{ descriptionText.englishText }}
+          </p>
           <p>{{ descriptionText.text }}</p>
         </div>
-        <Icon size="16">
+        <Icon size="12">
           <QuoteRight />
         </Icon>
       </div>
@@ -36,6 +40,7 @@ const store = mainStore();
 
 // 主页站点logo
 const siteLogo = import.meta.env.VITE_SITE_MAIN_LOGO;
+const viteSiteWord = import.meta.env.VITE_SITE_WORD;
 // 站点链接
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
@@ -51,6 +56,7 @@ const siteUrl = computed(() => {
 // 简介区域文字
 const descriptionText = reactive({
   hello: import.meta.env.VITE_DESC_HELLO,
+  englishText: import.meta.env.VITE_DESC_ENGLISH_TEXT,
   text: import.meta.env.VITE_DESC_TEXT,
 });
 
@@ -134,7 +140,7 @@ watch(
 
   .description {
     padding: 1rem;
-    margin-top: 3.5rem;
+    margin-top: 4.5rem;
     max-width: 460px;
     animation: fade 0.5s;
 
