@@ -20,11 +20,6 @@
     "link": "https://fre123.com/sp/weekly/kejiaihaozhezhoukan"
   },
   {
-    "icon": "Cloud",
-    "name": "openlist",
-    "link": "https://softleadergy.top/openlist/"
-  },
-  {
     "icon": "Film",
     "name": "Libretv",
     "link": "https://gy-libretv.pages.dev/"
@@ -36,11 +31,6 @@
   },
 
 
-  {
-    "icon": "LiveTvOutlined",
-    "name": "Live监控",
-    "link": "http://softleadergy.top:8080/"
-  },
   {
     "icon": "Github",
     "name": "GitStars",
@@ -84,19 +74,9 @@
     "link": "https://zeli.app/zh"
   },
   {
-    "icon": "Film",
-    "name": "小雅",
-    "link": "http://47.93.62.86:5678/"
-  },
-  {
     "icon": "ServerProxy",
     "name": "Proxy",
     "link": "https://gy-siteproxy.pages.dev/gyang/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "http://hot.softleadergy.top/"
   },
   {
     "icon": "Searchengin",
